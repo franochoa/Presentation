@@ -5,3 +5,15 @@
 #referents {
 	float: right;
 }
+
+#home_page_button{
+	float: left;
+}
+
+#type_id_button {
+	float: left;
+}
+
+#category_id_button {
+	float: middle;
+}
